@@ -40,8 +40,11 @@ In the project directory, you can run:
 )  
 *UI.*
 
-![Screenshot 2]()  
-*Another description of the screenshot.*
+## 🎥 Demo Video
+
+[![Watch the video](![image](https://github.com/user-attachments/assets/4b72ed03-7526-49d4-8ce9-aa254a89ad2b)
+)](https://drive.google.com/file/d/1OuLwgLCQOILT0jEyC2gRwCuldcRpOq89/view?usp=sharing)
+
 
 ---
 
