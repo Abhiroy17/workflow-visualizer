@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+
+# Workflow Visualizer
+
+![Workflow Visualizer Banner](https://via.placeholder.com/1200x400.png?text=Workflow+Visualizer+Banner)  
+*A powerful tool for creating customized workflows with ease.*
+
+---
+
+## 🚀 Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+- **`npm start`**: Runs the app in development mode.
+- **`npm test`**: Launches the test runner.
+- **`npm run build`**: Builds the app for production.
+- **`npm run eject`**: Ejects the app for full control.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🌟 Features
 
-### `npm test`
+- **Custom Workflow Creation**: Design and customize workflows with ease using the Workflow Visualizer. Create workflow nodes with unique text, content, and input/output connections (called “Handles”) to suit your specific needs.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Versatile Node Connections**: Each node in the workflow can have its own unique content and connections, but also share relationships and flows between nodes, allowing for complex and dynamic workflows.
 
-### `npm run build`
+- **Export Options**: Seamlessly export your workflow in various formats, including JSON and PDF, enabling easy sharing, storage, and integration with other tools.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Clean & Customizable UI**: Enjoy a clean, user-friendly interface that’s fully customizable and reusable. The UI is designed using compound design principles, ensuring flexibility and consistency across your workflows.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📸 Screenshots
 
-### `npm run eject`
+![Screenshot 1](![image](https://github.com/user-attachments/assets/33d73d32-b4c2-4068-bd0c-9bae8de152a2)
+)  
+*UI.*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot 2]()  
+*Another description of the screenshot.*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📦 Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To install and set up the project locally:
 
-## Learn More
+```bash
+git clone https://github.com/Abhiroy17/workflow-visualizer.git
+cd workflow-visualizer
+npm install
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠️ Built With
 
-### Code Splitting
+- **React** - JavaScript library for building user interfaces.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Abhiroy17/workflow-visualizer/issues).
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## 🎉 Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Edgeverve** - For inspiration to build a small prototype of workflow visualizer.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📧 Contact
 
-### `npm run build` fails to minify
+- **Abhijit Roy**: [LinkedIn](https://www.linkedin.com/in/abhijit-roy-a873601b0)
+- **Email**: [abhiroycs17@gmail.com](mailto:abhiroycs17@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
