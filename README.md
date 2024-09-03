@@ -1,7 +1,12 @@
 
 # Workflow Visualizer
 
+## 🌐 Live Demo
+
+Check out the live version of the Workflow Visualizer: [https://visualizeworkflow.netlify.app/](https://visualizeworkflow.netlify.app/)
+
 ![Workflow Visualizer Banner](https://github.com/Abhiroy17/workflow-visualizer/blob/master/image.png)  
+
 *A powerful tool for creating customized workflows with ease.*
 
 
@@ -39,10 +44,11 @@ In the project directory, you can run:
 
 ![Workflow Demo](https://github.com/user-attachments/assets/4fc515cd-fe50-48db-bb4f-2e109bd9267a)
  
+---
 *UI.*
 
 
-## 🎥 Demo Video
+## 🎥 Demo Video(Click)
 
 [![Watch the video](https://github.com/user-attachments/assets/4b72ed03-7526-49d4-8ce9-aa254a89ad2b)](https://youtu.be/cYETvFV4Ex0)
 
