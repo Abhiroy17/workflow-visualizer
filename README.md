@@ -1,9 +1,9 @@
 
 # Workflow Visualizer
 
-![Workflow Visualizer Banner](![image]([https://github.com/user-attachments/assets/91196c60-de94-41d7-8e00-6e76b8ffc5c7](https://github.com/Abhiroy17/workflow-visualizer/blob/master/image.png))
-)  
+![Workflow Visualizer Banner](https://github.com/Abhiroy17/workflow-visualizer/blob/master/image.png)  
 *A powerful tool for creating customized workflows with ease.*
+
 
 ---
 
