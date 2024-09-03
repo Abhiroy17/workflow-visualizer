@@ -1,7 +1,8 @@
 
 # Workflow Visualizer
 
-![Workflow Visualizer Banner](https://via.placeholder.com/1200x400.png?text=Workflow+Visualizer+Banner)  
+![Workflow Visualizer Banner](![image](https://github.com/user-attachments/assets/91196c60-de94-41d7-8e00-6e76b8ffc5c7)
+)  
 *A powerful tool for creating customized workflows with ease.*
 
 ---
