@@ -36,8 +36,9 @@ In the project directory, you can run:
 
 ## 📸 Screenshots
 
-![Screenshot 1](![image](https://github.com/user-attachments/assets/33d73d32-b4c2-4068-bd0c-9bae8de152a2)
-)  
+
+![Workflow Demo](https://github.com/user-attachments/assets/20f3efd5-7cc3-4109-852e-58899ae153f4)
+ 
 *UI.*
 
 ## 🎥 Demo Video
