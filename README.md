@@ -7,7 +7,7 @@
 Check out the live version of the Workflow Visualizer: [https://visualizeworkflow.netlify.app/](https://visualizeworkflow.netlify.app/)
 
 ![Workflow Visualizer Banner](https://github.com/Abhiroy17/workflow-visualizer/blob/master/image.png) 
-*UI.*
+
 ![Workflow Demo](https://github.com/user-attachments/assets/4fc515cd-fe50-48db-bb4f-2e109bd9267a)
  
 ---
