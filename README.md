@@ -42,8 +42,8 @@ In the project directory, you can run:
 
 ## 🎥 Demo Video
 
-[![Watch the video](![image](https://github.com/user-attachments/assets/4b72ed03-7526-49d4-8ce9-aa254a89ad2b)
-)](https://drive.google.com/file/d/1OuLwgLCQOILT0jEyC2gRwCuldcRpOq89/view?usp=sharing)
+[![Watch the video](https://github.com/user-attachments/assets/4b72ed03-7526-49d4-8ce9-aa254a89ad2b)](https://youtu.be/cYETvFV4Ex0)
+
 
 
 ---
