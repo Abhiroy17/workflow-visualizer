@@ -1,17 +1,14 @@
 
-
----
-
 # Workflow Visualizer
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Name+Banner)  
-*A simple workflow visualizer for your product.*
+![Workflow Visualizer Banner](https://via.placeholder.com/1200x400.png?text=Workflow+Visualizer+Banner)  
+*A powerful tool for creating customized workflows with ease.*
 
 ---
 
 ## 🚀 Getting Started
 
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
 
@@ -24,21 +21,26 @@ In the project directory, you can run:
 
 ---
 
-## 📸 Screenshots
+## 🌟 Features
 
-![Screenshot 1](https://via.placeholder.com/800x600.png?text=Screenshot+1)  
-*Description of the screenshot.*
+- **Custom Workflow Creation**: Design and customize workflows with ease using the Workflow Visualizer. Create workflow nodes with unique text, content, and input/output connections (called “Handles”) to suit your specific needs.
 
-![Screenshot 2](https://via.placeholder.com/800x600.png?text=Screenshot+2)  
-*Another description of the screenshot.*
+- **Versatile Node Connections**: Each node in the workflow can have its own unique content and connections, but also share relationships and flows between nodes, allowing for complex and dynamic workflows.
+
+- **Export Options**: Seamlessly export your workflow in various formats, including JSON and PDF, enabling easy sharing, storage, and integration with other tools.
+
+- **Clean & Customizable UI**: Enjoy a clean, user-friendly interface that’s fully customizable and reusable. The UI is designed using compound design principles, ensuring flexibility and consistency across your workflows.
 
 ---
 
-## 🌟 Features
+## 📸 Screenshots
 
-- **Feature 1**: Describe your key feature.
-- **Feature 2**: Highlight another important feature.
-- **Feature 3**: Mention additional functionalities.
+![Screenshot 1](![image](https://github.com/user-attachments/assets/33d73d32-b4c2-4068-bd0c-9bae8de152a2)
+)  
+*UI.*
+
+![Screenshot 2]()  
+*Another description of the screenshot.*
 
 ---
 
@@ -47,8 +49,8 @@ In the project directory, you can run:
 To install and set up the project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Abhiroy17/workflow-visualizer.git
+cd workflow-visualizer
 npm install
 npm start
 ```
@@ -58,37 +60,27 @@ npm start
 ## 🛠️ Built With
 
 - **React** - JavaScript library for building user interfaces.
-- **Node.js** - JavaScript runtime environment.
-- **Webpack** - Module bundler.
-- **Babel** - JavaScript compiler.
 
 ---
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues).
+Feel free to check the [issues page](https://github.com/Abhiroy17/workflow-visualizer/issues).
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🎉 Acknowledgements
 
-- **Create React App** - For bootstrapping the project.
-- **React** - For providing an amazing library.
+- **Edgeverve** - For inspiration to build a small prototype of workflow visualizer.
 
 ---
 
 ## 📧 Contact
 
-- **Your Name**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Abhijit Roy**: [LinkedIn](https://www.linkedin.com/in/abhijit-roy-a873601b0)
+- **Email**: [abhiroycs17@gmail.com](mailto:abhiroycs17@gmail.com)
 
 ---
 
-**Note:** Replace the placeholder image links and text with your actual content. You can host your images on platforms like GitHub itself, Imgur, or use your own hosting service. This layout will make your README visually appealing and informative!
