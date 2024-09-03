@@ -4,7 +4,7 @@ import './node.css';
 
 const NodeBody = ({ children }) => {
   return (
-    <div>{children}</div>
+    <div className="node-body">{children}</div>
   );
 }
 

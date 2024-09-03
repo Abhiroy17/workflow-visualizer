@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Handle, Position } from 'reactflow';
+import Node, { NodeBody, NodeHeader, NodeInput } from "./Node";
 
 export const TextNode = ({ id, data }) => {
   const [currText, setCurrText] = useState(data?.text || '{{input}}');
@@ -11,11 +12,10 @@ export const TextNode = ({ id, data }) => {
   };
 
   return (
-    <div style={{width: 200, height: 80, border: '1px solid black'}}>
-      <div>
-        <span>Text</span>
-      </div>
-      <div>
+    <Node>
+      <NodeBody>
+      <NodeHeader>Text</NodeHeader>
+        <NodeInput><div>
         <label>
           Text:
           <input 
@@ -24,12 +24,13 @@ export const TextNode = ({ id, data }) => {
             onChange={handleTextChange} 
           />
         </label>
-      </div>
+      </div></NodeInput>
       <Handle
         type="source"
         position={Position.Right}
         id={`${id}-output`}
       />
-    </div>
+      </NodeBody>
+    </Node>
   );
 }
